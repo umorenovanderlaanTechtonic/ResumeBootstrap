@@ -53,6 +53,12 @@ a {
   text-transform: uppercase;
 }
 
+a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #2b2e33;
+}
+
 /* left side CSS */
 .left-side {
   padding: 25px 3% 0px;
